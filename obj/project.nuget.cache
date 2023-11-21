@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGW1zx31BV3Nk6wfsgyBor5gfv37gTwxFkj/O+HwTMEhzNPjVOtEVxQEGsbaJV7fyyCglqDqnuRkdXnyKCMczg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caiyi\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\depths\\depths.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiyi\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
